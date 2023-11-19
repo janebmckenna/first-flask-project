@@ -1,0 +1,10 @@
+.col-md-5 img{
+    max-width: 100%;
+    min-width:70%;
+    height: 100%;
+    padding-left: 10%;
+}
+
+.col-md-7 h3{
+    margin-top: 20px;
+}
